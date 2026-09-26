@@ -51,6 +51,7 @@ Windows Settings → Apps → Caddie → Uninstall.
 If Caddie shows nothing while a player card is on screen:
 
 1. Right-click → **Clear saved card region**, and give it a few seconds.
-2. Still nothing? Press `G` while the card is up. Caddie writes a debug dump
-   (a screenshot and what it made of it) to `%APPDATA%\Caddie\debug`. Zip
-   that folder and send it over, with a line about what you expected to see.
+2. Still nothing, or anything else wrong? With the card on screen, right-click
+   → **Problem report...** (also in Settings). It saves one file to your
+   Desktop, "Caddie problem report ….zip", and opens the folder with it
+   selected. Send that file over, with a line about what you expected to see.
